@@ -5,11 +5,11 @@ AI model wrote to a tree of text files, in any of four formats: unified
 diff, SEARCH/REPLACE blocks, V4A patches, or JSON text-editor tool calls.
 Every file is changed or nothing is.
 
-![bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)
-![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Mumet69/mend/rank.svg)
-![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Mumet69/mend/reward.svg)
+[![bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Mumet69/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Mumet69/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 
-Bounty: https://make.fun/bounty/hidden-spec-cli-01-run-20261122
+Bounty: [https://make.fun/bounty/hidden-spec-cli-01-run-20261122](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 
 ## Usage
 
